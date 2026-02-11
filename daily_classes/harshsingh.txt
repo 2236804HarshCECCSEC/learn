@@ -1,0 +1,6 @@
+harsh
+10000
+harshsingh
+Harsh@123
+Name:- harsh
+opening balance= 10000

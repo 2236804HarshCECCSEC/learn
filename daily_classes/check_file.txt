@@ -1,0 +1,5 @@
+king
+queen
+sing
+ping
+ding
