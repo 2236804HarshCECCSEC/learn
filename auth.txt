@@ -1,3 +1,0 @@
-king,123
-queen,456
-sing,789
